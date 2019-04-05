@@ -13,5 +13,5 @@
     "serverless-plugin-canary-deployments": "^0.4.2"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
