@@ -1,9 +1,8 @@
-service: canary-deployments-test
+service: serverless-code-pipeline-cicd
 
 provider:
   name: aws
   runtime: nodejs8.10
-  profile: personal
   iamRoleStatements:
     - Effect: Allow
       Action:
