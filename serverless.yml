@@ -35,7 +35,7 @@ functions:
         evaluationPeriods: 1
         comparisonOperator: GreaterThanOrEqualToThreshold
     deploymentSettings:
-      type: Linear10PercentEvery1Minute
+      type: Canary10Percent5Minutes
       alias: Live
       preTrafficHook: preHook
       postTrafficHook: postHook
