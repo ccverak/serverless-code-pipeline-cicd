@@ -1,4 +1,4 @@
-# serverless-code-pipeline-cicd
+# serverless-code-pipeline-cicd-demo
 Severless CI/CD blue green deployments with AWS Code Pipeline &amp; Code Deploy
 
 # License
